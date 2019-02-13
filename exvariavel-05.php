@@ -12,7 +12,7 @@ function teste(){
 
 function teste2(){
 	$nome = "joao";
-	echo $nome . " " . "Agora no teste2";
+	echo $nome . " "  ."Agora no teste2";
 
 }
 
